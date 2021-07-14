@@ -17,7 +17,7 @@ O sistema proposto pela nossa equipe é denominado de Maiself e propõe como sol
 
 **Diferencial ?**
 
-Nosso projeto tem como o objetivo realizar o gerenciamento de pacientes para consultas em Unidades de Pronto Atendimento(UPAs) contanto, nesse sistema, não se propõe apenas o cadastro do usuário e a geração de um prontuário com as informações do mesmo, mas sim, permitir que ao longo de consultas realizadas pelo paciente seja disponibilizado o quadro de evolução em determinada linha do tempo. No sistema também será possível realizar o cadastro de restrições medicamentosas, consultas e exames do paciente, a fim de que o mesmo tenha um histórico de consultas e não precise fazer um novo cadastro a cada nova visita às UPAs, em consonância as contribuições já mencionadas, o menor tempo para realização de todo o procedimento dentro do consultório é apontado como um fator crucial que promove a necessidade de implementação da aplicação. Somado ao foco em gerir e gerenciar os dados de pertinência a cada paciente, a solução possibilita a centralização em um único repositório de todas as informações relevantes e pertinentes às evoluções clínicas do paciente, garantindo segurança aos dados.
+Como anteriormente citado, nosso objetivo tem como unir diferentes módulos de organização pessoal em uma única aplicação web, esse é um dos nossos diferencias dos sistemas apresentados anteriormente também. Outro diferencial é que para  soluções web não há sistemas de controle de hábitos ou de controle de finanças(não de graça pelo menos), então estamos trazendo dois segmentos de controle pessoal que quase toda pessoa hoje em dia no mundo da tecnologia visa, podendo dentro do sistema navegar entre esses módulos e usar qual quiser totalmente de graça.
 
 
 # Outras visitas relacionadas à Maiself
@@ -29,7 +29,7 @@ Nosso projeto tem como o objetivo realizar o gerenciamento de pacientes para con
 
 # Sumário da nossa Documentação
 
-1. [Relatório de Concepção e Elicitação dos Requisitos do Sistema](https://github.com/ericrodriguesfer/documentacao-drot/blob/master/Requisitos%20Funcionais/Relat%C3%B3rio%20de%20Requisitos%20Funcionais%20-%20DROT.pdf)
+1. [Relatório de Concepção e Elicitação dos Requisitos do Sistema]
     * Este documentos reune à concepção do sistema, o documento de visão e os principais requisitos funcionais e não funcionais priorizados pela equipe da Maiself.
 
 2. [Documento de Introdução e Descrição de Testes e Seus Mecanismos Utilizados](https://github.com/ericrodriguesfer/documentacao-drot/blob/master/Requisitos%20n%C3%A3o%20Funcionais/Relat%C3%B3rio%20de%20Requisitos%20n%C3%A3o%20Funcionais%20-%20DROT.pdf)
