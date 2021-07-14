@@ -29,14 +29,14 @@ Como anteriormente citado, nosso objetivo tem como unir diferentes módulos de o
 
 # Sumário da nossa Documentação
 
-1. [Relatório de Concepção e Elicitação dos Requisitos do Sistema]
+1. [Relatório de Concepção e Elicitação dos Requisitos do Sistema](https://github.com/italolima04/maiself-documentacao/blob/master/Relat%C3%B3rio%20Maiself.pdf)
     * Este documentos reune à concepção do sistema, o documento de visão e os principais requisitos funcionais e não funcionais priorizados pela equipe da Maiself.
 
-2. [Documento de Introdução e Descrição de Testes e Seus Mecanismos Utilizados](https://github.com/ericrodriguesfer/documentacao-drot/blob/master/Requisitos%20n%C3%A3o%20Funcionais/Relat%C3%B3rio%20de%20Requisitos%20n%C3%A3o%20Funcionais%20-%20DROT.pdf)
+2. [Documento de Introdução e Descrição de Testes e Seus Mecanismos Utilizados](https://github.com/italolima04/maiself-documentacao/blob/master/teste-jest.pdf)
     * Este documentos reune uma introdução e descrição sobre testes e apresenta os mecanismos que serão utilizados para testar o nosso sistema.
 
-3. [Modelo Entitade Relacionamento](https://github.com/ericrodriguesfer/documentacao-drot/blob/master/Diagrama%20BD%20MER/Modelo%20Entidade%20Relacionamento%20DROT.png)
+3. [Modelo Entitade Relacionamento](https://github.com/italolima04/maiself-documentacao/blob/master/MER.png)
     * Esta sessão reune o primeiro modelo entitade relacionamento priorizado pela equipe da Maiself.
 
-4. [Projeto de Interação do DROT](https://github.com/ericrodriguesfer/documentacao-drot/tree/master/Projeto%20de%20Intera%C3%A7%C3%A3o)
+4. [Projeto de Interação do DROT](https://github.com/italolima04/maiself-documentacao/blob/master/FluxoNavega%C3%A7%C3%A3o.jpg)
     * Esta sessão reune os documentos de projeto de interação e o fluxo de navegação do sistema a ser desenvolvido.
