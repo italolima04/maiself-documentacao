@@ -38,5 +38,5 @@ Como anteriormente citado, nosso objetivo tem como unir diferentes módulos de o
 3. [Modelo Entitade Relacionamento](https://github.com/italolima04/maiself-documentacao/blob/master/MER.png)
     * Esta sessão reune o primeiro modelo entitade relacionamento priorizado pela equipe da Maiself.
 
-4. [Projeto de Interação do DROT](https://github.com/italolima04/maiself-documentacao/blob/master/FluxoNavega%C3%A7%C3%A3o.jpg)
+4. [Projeto de Interação da Maiself](https://github.com/italolima04/maiself-documentacao/blob/master/FluxoNavega%C3%A7%C3%A3o.jpg)
     * Esta sessão reune os documentos de projeto de interação e o fluxo de navegação do sistema a ser desenvolvido.
